@@ -14,6 +14,8 @@ target 'VietSmile' do
     :hermes_enabled => false
   )
 
+  pod 'react-native-agora', :path => '../node_modules/react-native-agora'
+
   target 'VietSmileTests' do
     inherit! :complete
     # Pods for testing

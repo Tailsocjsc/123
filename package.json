@@ -10,8 +10,10 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "agora-rn-uikit": "^3.3.0",
     "react": "17.0.1",
     "react-native": "0.64.2",
+    "react-native-agora": "^3.5.3",
     "react-native-unimodules": "^0.14.10"
   },
   "devDependencies": {
